@@ -8,6 +8,8 @@ Esta e minha primeira pagina desenvolvida na disciplina Programação Web I.
 -GitHub
 ## capturas de tela
 ### Pagina aberta no navegador 
-![Minha primeira pagina web](pagina png)
-### Utilização das Devtools
-![Inspeção do codigo HTML](devtools.png)  
+<img width="1002" height="317" alt="image" src="https://github.com/user-attachments/assets/b61c2f2f-662a-47b1-9b33-c80ecb6640dc" />
+
+### Utilização das Notepad++
+<img width="1236" height="463" alt="image" src="https://github.com/user-attachments/assets/2f8ef175-ceb3-46e3-85da-3ece5731db40" />
+
