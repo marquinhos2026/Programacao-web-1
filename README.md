@@ -7,6 +7,7 @@ Esta e minha primeira pagina desenvolvida na disciplina Programação Web I.
 -Git
 -GitHub
 ## capturas de tela
+
 ### Pagina aberta no navegador 
 <img width="1002" height="317" alt="image" src="https://github.com/user-attachments/assets/b61c2f2f-662a-47b1-9b33-c80ecb6640dc" />
 
